@@ -201,7 +201,7 @@ if __name__ == '__main__':
 
     try:
         from visualize import visualize_assignments
-        #visualize_assignments(assignments)
+        visualize_assignments(assignments)
 
     except SystemExit:
         pass
